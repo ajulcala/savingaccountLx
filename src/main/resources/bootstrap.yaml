@@ -4,5 +4,5 @@ spring:
 
   cloud:
     config:
-      #uri: http://localhost:8888  # de manera local descomentar y comentar uri del docker
-      uri: http://config-server:8888    #en docker
+      uri: http://localhost:8888  # de manera local descomentar y comentar uri del docker
+      #uri: http://config-server:8888    #en docker
